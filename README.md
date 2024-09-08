@@ -1,2 +1,3 @@
 # ПЕРВАЯ ПРАКТИЧЕСКАЯ РАБОТА ПО FLUTTER
-https://vk.com/im?sel=-129078557&z=photo362589868_457240629%2Faaf0598006056aff83
+![4lFY8MisuE4](https://github.com/user-attachments/assets/4f9b5d2f-6354-4599-9aa1-948bfe1c3436)
+
